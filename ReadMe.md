@@ -36,10 +36,10 @@ print(Translate.GetLanguages())
 
 #### note: you have up to 5000 chars/day as referenced [here](https://mymemory.translated.net/doc/usagelimits.php)
 
-#### note: if you want quality check [this library](https://github.com/ssut/py-googletrans) 
+#### note: if you want quality check don't use this library
 
 ## thanks to [mymemory](https://mymemory.translated.net/) for the api 
-## thanks to [googletrans](https://github.com/ssut/py-googletrans) for language list that i used in `Translate.GetLanguages()`
+## thanks to [googletrans](https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages) for language list that i used in `Translate.GetLanguages()`
 
 #### License
 ```
