@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Translate_moh0009
+Version: 1.0.0
+Summary: A Translate pkg for python
+Project-URL: Homepage, https://github.com/moh0009/Translate_lib
+Project-URL: Issues, https://github.com/moh0009/Translate_lib/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENSE

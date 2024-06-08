@@ -12,5 +12,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/moh0009/Translate_lib"
+Issues = "https://github.com/moh0009/Translate_lib/issues"

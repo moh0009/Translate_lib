@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+src/Translate_moh0009/__init__.py
+src/Translate_moh0009/languages.py
+src/Translate_moh0009/main.py
+src/Translate_moh0009.egg-info/PKG-INFO
+src/Translate_moh0009.egg-info/SOURCES.txt
+src/Translate_moh0009.egg-info/dependency_links.txt
+src/Translate_moh0009.egg-info/top_level.txt
