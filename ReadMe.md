@@ -1,7 +1,7 @@
-# Translate library
+# TranslatePlus library
 ### it's so simple to start
 ```python
-from Translate import Translate
+from TranslatePlus import Translate
 output = Translate(text = "hi", fromlang = "en", tolang = "it")
 print(output.GetTranslatedText())
 ```
@@ -10,25 +10,25 @@ print(output.GetTranslatedText())
 ### want see all the response
 
 ```python
-from Translate import Translate
+from TranslatePlus import Translate
 output = Translate(text = "hi", fromlang = "en", tolang = "it")
 print(output.GetAll())
 ```
 ### do want just matches you can
 ```python
-from Translate import Translate
+from TranslatePlus import Translate
 output = Translate(text = "hi", fromlang = "en", tolang = "it")
 print(output.GetMatches())
 ```
 ### do you want in more formated way
 ```python
-from Translate import Translate
+from TranslatePlus import Translate
 output = Translate(text = "hi", fromlang = "en", tolang = "it")
 print(output.GetFormatedMatches())
 ```
 ### want see languages
 ```python
-from Translate import Translate
+from TranslatePlus import Translate
 
 print(Translate.GetLanguages())
 ```

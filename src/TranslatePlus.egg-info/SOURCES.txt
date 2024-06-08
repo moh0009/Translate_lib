@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+src/TranslatePlus/__init__.py
+src/TranslatePlus/languages.py
+src/TranslatePlus/main.py
+src/TranslatePlus.egg-info/PKG-INFO
+src/TranslatePlus.egg-info/SOURCES.txt
+src/TranslatePlus.egg-info/dependency_links.txt
+src/TranslatePlus.egg-info/top_level.txt

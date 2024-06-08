@@ -1,5 +1,5 @@
 [project]
-name = "Translate_moh0009"
+name = "TranslatePlus"
 version = "1.0.0"
 
 description = "A Translate pkg for python"
